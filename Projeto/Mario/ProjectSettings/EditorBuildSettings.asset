@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: b5b45a2f79349f348ae5ceb863c496a5
+  - enabled: 1
+    path: Assets/Scenes/Menu/Controles.unity
+    guid: 626b47eb3edc4044aaef5f6f87f44737
+  - enabled: 1
+    path: Assets/Scenes/Menu/SelecPerso.unity
+    guid: 87392058b4ec39940a328619af145d22
+  - enabled: 1
+    path: Assets/Scenes/Jogo/morte.unity
+    guid: b8d005119b546704598f0b961cc268cb
+  - enabled: 1
+    path: Assets/Scenes/Jogo/Vitorinha.unity
+    guid: 86c532954f63fa04786f6c48ce9df2d3
+  - enabled: 1
+    path: Assets/Scenes/Jogo/Mario/Fase1Mario.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Jogo/Mario/Fase2Mario.unity
+    guid: ed230171f23649d488ab97f6096f850c
+  - enabled: 1
+    path: Assets/Scenes/Jogo/Luigi/Fase1Luigi.unity
+    guid: 4fb4a999a2c98df4985e69a764146a1f
+  - enabled: 1
+    path: Assets/Scenes/Jogo/Luigi/Fase2Luigi.unity
+    guid: d00792abeb019774882aea61eed7f4c1
+  - enabled: 1
+    path: Assets/Scenes/Jogo/Em desenvolvimento/Fase2.1Mario.unity
+    guid: b4a2e041c843a0b44bf2f56dfbeb396a
+  m_configObjects: {}
